@@ -19,8 +19,13 @@ The project involves end-to-end data processing, from cleaning raw Excel data us
 ## 🛠 Tools Used
 - **Python** (Pandas, Matplotlib, Seaborn)  
 - **Jupyter Notebook**  
-- **Tableau / Excel** (for visualizations) 
+- **Tableau / Excel** (for visualizations)
+- 
+## 📂 Dataset
 
+The dataset used in this project is available in the repository.
+
+📥 [Download Dataset](data/bmwsh.csv)
 ## 📂 Dataset Information
 The dataset (data/bmwsh.csv) contains monthly sales records including:
 * **Models:** 3 Series, 5 Series, X3, X5, X7, i4, iX.
