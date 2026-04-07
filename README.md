@@ -55,6 +55,11 @@ This analysis includes:
 1. **Electrification Growth:** The adoption of the i4 and iX models shows a steady increase in the BEV Share, peaking in 2025.
 2. **Revenue Drivers:** The X5 and X7 models continue to generate the highest aggregate revenue due to their premium pricing strategy.
 3. **Market Resilience:** Premium share remained consistent regardless of minor GDP growth fluctuations.
+4. - Sales increased significantly after 2018
+5. - SUV models (like X series) dominate the market
+6. - Europe is the highest contributing region
+7. - Hybrid and electric cars are growing rapidly
+
 
 
 ## 📄 Notebook & Case Study
