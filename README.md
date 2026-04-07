@@ -22,7 +22,7 @@ The project involves end-to-end data processing, from cleaning raw Excel data us
 - **Tableau / Excel** (for visualizations) 
 
 ## 📂 Dataset Information
-The dataset (data/bmwsh.xlsx) contains monthly sales records including:
+The dataset (data/bmwsh.csv) contains monthly sales records including:
 * **Models:** 3 Series, 5 Series, X3, X5, X7, i4, iX.
 * **Metrics:** Units Sold, Average Price (EUR), Total Revenue (EUR).
 * **Market Indicators:** BEV Share, Premium Market Share, GDP Growth, Fuel Price Index.
